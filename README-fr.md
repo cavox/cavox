@@ -3,13 +3,13 @@
   <a href="https://github.com/cavox/cavox/blob/main/README.md">🇬🇧 English</a>
 </p>
 
-<table border="0" style="border: none; background: transparent;">
-  <tr>
-    <td align="center" width="120" style="border: none; background: transparent;">
+<table style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="center" width="100" style="border: none; background: transparent; padding-right: 15px;">
       <img src="./assets/logo_it.png" width="100%" alt="IT Developer Logo">
     </td>
     <td style="border: none; background: transparent; vertical-align: middle;">
-      <span style="font-size: 2em; font-weight: bold;">Joseph ADAM</span>
+      <span style="font-size: 2.2em; font-weight: bold; color: #c9d1d9;">Joseph ADAM</span>
     </td>
   </tr>
 </table>
