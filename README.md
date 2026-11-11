@@ -1,6 +1,6 @@
 [🇫🇷 Français](https://github.com/cavox/cavox/blob/main/README-fr.md) | [🇬🇧 English](https://github.com/cavox/cavox/blob/main/README.md)
 
-# ![IT Developer Logo](./assets/logo_it.png) Joseph ADAM
+# <img src="./assets/logo_it.png" width="48" align="absmiddle" alt="Logo"> Joseph ADAM
 
 ### Application Developer in Training | Application Developer (CDA)
 
