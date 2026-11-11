@@ -1,6 +1,6 @@
- <h1 style="display:flex">
+ <h1 style="display:flex;justify-content:flex-start; align-items:center;">
   <img src="./assets/logo_it.png" width="15%" alt="IT Developer Logo">
-  Joseph ADAM
+  <p>Joseph ADAM</p>
 </h1>
 
 
