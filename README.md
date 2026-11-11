@@ -3,17 +3,16 @@
   <a href="https://github.com/cavox/cavox/blob/main/README.md">🇬🇧 English</a>
 </p>
 
-<table>
+<table border="0" style="border: none; background: transparent;">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border: none; background: transparent;">
       <img src="./assets/logo_it.png" width="100%" alt="IT Developer Logo">
     </td>
-    <td>
-      <h1 style="margin: 0; border: none;">Joseph ADAM</h1>
+    <td style="border: none; background: transparent; vertical-align: middle;">
+      <span style="font-size: 2em; font-weight: bold;">Joseph ADAM</span>
     </td>
   </tr>
 </table>
-
 
 ### Application Developer in Training | Application Developer (CDA)
 
