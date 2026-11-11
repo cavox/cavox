@@ -70,6 +70,7 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 ![Top Languages](https://ghstats.dev/api/langs?username=cavox&theme=nord)
 
 </div>
+
 ---
 
 ## Contact
