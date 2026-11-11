@@ -16,18 +16,24 @@ Mon objectif : mettre à profit mon expérience des systèmes informatiques et m
 
 ## Compétences techniques
 
-**Développement Web**
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- CSS3
-- JavaScript
-- Responsive Design
+**Langages pratiqués**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=plastic&logo=css)
+![Static Badge](https://img.shields.io/badge/SQL-003B57?style=plastic&logo=sqlite&link='')
+![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&link='')
+
 
 **En cours d'apprentissage**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white&logoSize=auto&link='')
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white&link='')
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&link='')
 - Développement Front-end et Back-end
-- Conception et développement d'applications
-- Bases de données SQL
+- Responsive Design
 - API REST
 - Git et GitHub
+
 
 **Expérience informatique**
 - Administration systèmes et réseaux
