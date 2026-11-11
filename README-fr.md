@@ -63,10 +63,13 @@ Chaque projet est une occasion de mettre en pratique mes connaissances, de progr
 ---
 
 ## Statistiques GitHub
+<div align="center">
+
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=cavox&theme=nord&show_ring=false&border_radius=5.5&size=compact&hide=stars%2Cprs&order=repos%2Ccommits%2Cissues%2Chours%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Ccontributions%2Cfollowers)
 
 ![Top Languages](https://ghstats.dev/api/langs?username=cavox&theme=nord)
 
+</div>
 ---
 
 ## Contact
