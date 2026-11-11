@@ -1,4 +1,8 @@
-# Joseph ADAM
+ <h1 style="display:flex">
+  <img src="./assets/logo_it.png" width="15%" alt="IT Developer Logo">
+  Joseph ADAM
+</h1>
+
 
 ### Développeur d'applications en formation | Concepteur Développeur d'Applications (CDA)
 
