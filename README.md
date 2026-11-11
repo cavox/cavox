@@ -63,9 +63,10 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 ---
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cavox&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=cavox&theme=nord&show_ring=false&border_radius=5.5&size=compact&hide=stars%2Cprs&order=repos%2Ccommits%2Cissues%2Chours%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Ccontributions%2Cfollowers)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cavox&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://ghstats.dev/api/langs?username=cavox&theme=nord)
+
 
 ---
 
