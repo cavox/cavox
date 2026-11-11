@@ -4,11 +4,11 @@
 
 ### Application Developer in Training | Application Developer (CDA)
 
-After more than 20 years of experience in IT, I have decided to give my career a new direction by returning to what has always driven me: technology and software development.[cite: 2]
+After more than 20 years of experience in IT, I have decided to give my career a new direction by returning to what has always driven me: technology and software development.
 
-I am currently undertaking an Application Developer (CDA) training program at O'clock, where I am developing my skills in programming, application design and web development.[cite: 2]
+I am currently undertaking an Application Developer (CDA) training program at O'clock, where I am developing my skills in programming, application design and web development.
 
-My goal: to combine my experience in IT systems with my newly acquired development skills to build useful, efficient and scalable applications.[cite: 2]
+My goal: to combine my experience in IT systems with my newly acquired development skills to build useful, efficient and scalable applications.
 
 ---
 
@@ -27,36 +27,38 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
 
-* Front-end and Back-end Development[cite: 2]
-* Responsive Design[cite: 2]
-* REST APIs[cite: 2]
-* Git & GitHub[cite: 2]
+* Front-end and Back-end Development
+* Responsive Design
+* REST APIs
+* Git & GitHub
 
 **IT Experience**
 
-* Systems and Network Administration[cite: 2]
-* Windows Server[cite: 2]
-* Virtualization[cite: 2]
-* Microsoft Environments[cite: 2]
-* Networks Infrastructure (Cisco, Palo Alto, Aruba)[cite: 2]
+* Systems and Network Administration
+* Windows Server
+* Virtualization
+* Microsoft Environments
+* Networks Infrastructure (Cisco, Palo Alto, Aruba)
 
 ---
 
 ## Goals
 
-* Further develop my web development skills[cite: 2]
-* Build complete applications, from front-end to back-end.[cite: 2]
-* Explore the potential of Artificial Intelligence in software development.[cite: 2]
-* Discover and gain hands-on experience with DevOps technologies.[cite: 2]
-* Build real-world projects to expand my portfolio.[cite: 2]
+* Further develop my web development skills
+* Build complete applications, from front-end to back-end.
+* Explore the potential of Artificial Intelligence in software development.
+* Discover and gain hands-on experience with DevOps technologies.
+* Build real-world projects to expand my portfolio.
 
 ---
 
 ## Projects
 
-Here you will find my various projects and experiments, developed as part of my training or as personal projects.[cite: 2]
+Here you will find my various projects and experiments, developed as part of my training or as personal projects.
 
-Each project is an opportunity to put my knowledge into practice, improve my skills and explore new technologies.[cite: 2]
+- [Oclock Student News](https://cavox.github.io/Oclock-Student-news/)
+
+Each project is an opportunity to put my knowledge into practice, improve my skills and explore new technologies.
 
 ---
 
@@ -70,9 +72,9 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 
 ## Contact
 
-* LinkedIn : [My profile](https://www.linkedin.com/in/joseph-adam-66b650129/)[cite: 2]
-* GitHub : [My Repositories](https://github.com/cavox)[cite: 2]
+* LinkedIn : [My profile](https://www.linkedin.com/in/joseph-adam-66b650129/)
+* GitHub : [My Repositories](https://github.com/cavox)
 
 ---
 
-> *Anyone who gives up on becoming a better person has already stopped being good.*[cite: 2]
+> *Anyone who gives up on becoming a better person has already stopped being good.*
