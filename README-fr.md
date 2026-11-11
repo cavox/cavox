@@ -1,11 +1,18 @@
 <p align="right">
-  <a href="./README-fr.md">🇫🇷 Français</a> |
-  <a href="./README.md">🇬🇧 English</a>
-</p> 
- <h1 style="display:flex;justify-content:flex-start; align-items:center;">
-  <img src="./assets/logo_it.png" width="15%" alt="IT Developer Logo">
-  <p>Joseph ADAM</p>
-</h1>
+  <a href="https://github.com/cavox/cavox/blob/main/README-fr.md">🇫🇷 Français</a> |
+  <a href="https://github.com/cavox/cavox/blob/main/README.md">🇬🇧 English</a>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="./assets/logo_it.png" width="100%" alt="IT Developer Logo">
+    </td>
+    <td>
+      <h1 style="margin: 0; border: none;">Joseph ADAM</h1>
+    </td>
+  </tr>
+</table>
 
 
 ### Développeur d'applications en formation | Concepteur Développeur d'Applications (CDA)
