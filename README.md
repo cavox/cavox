@@ -12,7 +12,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## <img src="./assets/skill.png" width="26" align="absmiddle" alt="Skills"> Technical Skills
+## <img src="./assets/skill-light.png#gh-light-mode-only" width="24" align="absmiddle" alt="skill"><img src="./assets/skill-dark.png#gh-dark-mode-only" width="24" align="absmiddle" alt="skill"> Technical Skills
 
 ### Development
 
@@ -36,11 +36,9 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 ![PowerShell](https://img.shields.io/badge/PowerShell-146FBF?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgaWQ9InBvd2Vyc2hlbGwiPgogIDxwYXRoIGZpbGw9IiMxNDZGQkYiIGQ9Ik0uODE5IDIxaDE4LjIzYy41NjggMCAxLjEzNS0uNDYyIDEuMjY1LTEuMDMybDMuNjU5LTE1LjkzNmMuMTMxLS41Ny0uMjI0LTEuMDMyLS43OTItMS4wMzJINC45NTFjLS41NjggMC0xLjEzNS40NjItMS4yNjUgMS4wMzJMLjAyNyAxOS45NjhDLS4xMDQgMjAuNTM4LjI1MSAyMSAuODE5IDIxem0xNS42My00LjI5NWMuNTExIDAgLjkyNS40MTIuOTI4LjkyYS45MjYuOTI2IDAgMCAxLS45MjguOTJIMTIuMDFhLjkyNy45MjcgMCAwIDEtLjkzNC0uOTIuOTI2LjkyNiAwIDAgMSAuOTI4LS45Mmg0LjQ0NXptLTExLjYzOS4zMDYgNy40Mi01LjM1OHYtLjExTDcuNTY4IDYuNTk4Yy0uMzgtLjQwMy0uMzQxLTEuMDU1LjA4OC0xLjQ1Ny40MjktLjQwMiAxLjA4Ni0uNCAxLjQ2Ni4wMDRsNS41OTQgNS45MzRjLjMxNy4zMzcuMzQxLjg0Ni4wOSAxLjIzOS0uMDc2LjE1NC0uMjM0LjMyMi0uNTE0LjUxOWwtOC4yMjkgNS44OTJjLS40NDkuMzI2LTEuMDk0LjIwNS0xLjQ0LS4yNjktLjM0Ni0uNDc1LS4yNjMtMS4xMjMuMTg3LTEuNDQ5eiI%2BPC9wYXRoPgo8L3N2Zz4K&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Power%20Automate-3689F3?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9Ii01IDEwLjQgMTAyIDc3LjYiPgo8ZGVmcz4KPGZpbHRlciBpZD0iZmlsdGVyMF9mIj4KPGZlRmxvb2QgZmxvb2Qtb3BhY2l0eT0iMCIgcmVzdWx0PSJCYWNrZ3JvdW5kSW1hZ2VGaXgiLz4KPGZlQmxlbmQgbW9kZT0ibm9ybWFsIiBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0ic2hhcGUiLz4KPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMC40IiByZXN1bHQ9ImVmZmVjdDFfZm9yZWdyb3VuZEJsdXIiLz4KPC9maWx0ZXI%2BCjxmaWx0ZXIgaWQ9ImZpbHRlcjFfZiI%2BCjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8%2BCjxmZUJsZW5kIG1vZGU9Im5vcm1hbCIgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iQmFja2dyb3VuZEltYWdlRml4IiByZXN1bHQ9InNoYXBlIi8%2BCjxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjQiIHJlc3VsdD0iZWZmZWN0MV9mb3JlZ3JvdW5kQmx1ciIvPgo8L2ZpbHRlcj4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDBfbGluZWFyIiB4MT0iNDMiIHkxPSI1NSIgeDI9IjI5IiB5Mj0iMTAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzBEMzZBNSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxMTUyRDQiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDFfbGluZWFyIiB4MT0iNDYiIHkxPSIxMCIgeDI9IjQ2IiB5Mj0iODYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iIzg0Q0FGRiIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM2MUIxRkIiLz4KPC9saW5lYXJHcmFkaWVudD4KPGxpbmVhckdyYWRpZW50IGlkPSJwYWludDJfbGluZWFyIiB4MT0iMzcuNSIgeTE9IjEwIiB4Mj0iMzcuNSIgeTI9Ijg2IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI%2BCjxzdG9wIHN0b3AtY29sb3I9IiMzQjkwRjUiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjMkE3OEVFIi8%2BCjwvbGluZWFyR3JhZGllbnQ%2BCjxjbGlwUGF0aCBpZD0iY2xpcDAiPgo8cmVjdCB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IndoaXRlIi8%2BCjwvY2xpcFBhdGg%2BCjxjbGlwUGF0aCBpZD0iY2xpcDEiPgo8cmVjdCB3aWR0aD0iOTYiIGhlaWdodD0iOTYiIGZpbGw9IndoaXRlIi8%2BCjwvY2xpcFBhdGg%2BCjwvZGVmcz4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwKSI%2BCjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMSkiPgo8bWFzayBpZD0ibWFzazAiIG1hc2stdHlwZT0iYWxwaGEiIG1hc2tVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9Ii0xIiB5PSIxMCIgd2lkdGg9Ijk3IiBoZWlnaHQ9Ijc2Ij4KPHBhdGggZD0iTTYxLjIxMTYgMTBDNjIuMzQ5NiAxMCA2My40MzM3IDEwLjQ4NDcgNjQuMTkyNSAxMS4zMzI4TDk0LjYxMzYgNDUuMzMyOEM5NS45NzIzIDQ2Ljg1MTQgOTUuOTcyMyA0OS4xNDg2IDk0LjYxMzYgNTAuNjY3Mkw2NC4xOTI1IDg0LjY2NzJDNjMuNDMzNyA4NS41MTUzIDYyLjM0OTYgODYgNjEuMjExNiA4NkgzLjk0NjM0QzAuNDg4Nzc3IDg2IC0xLjM0MDEyIDgxLjkwOTUgMC45NjUzNjYgNzkuMzMyOEwyOSA0OEwwLjk2NTM2NiAxNi42NjcyQy0xLjM0MDEyIDE0LjA5MDUgMC40ODg3NzcgMTAgMy45NDYzNCAxMEg2MS4yMTE2WiIgZmlsbD0id2hpdGUiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swKSI%2BCjxwYXRoIGQ9Ik02MyAxMEwyOSA0OEwtNSAxMEg2M1oiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcikiLz4KPGcgZmlsdGVyPSJ1cmwoI2ZpbHRlcjBfZikiPgo8cGF0aCBkPSJNNjMgMTAuNEwtNSA4Ni40SDYzTDk3IDQ4LjRMNjMgMTAuNFoiIGZpbGw9ImJsYWNrIiBmaWxsLW9wYWNpdHk9IjAuMjQiLz4KPC9nPgo8ZyBmaWx0ZXI9InVybCgjZmlsdGVyMV9mKSI%2BCjxwYXRoIGQ9Ik02MyAxMkwtNSA4OEg2M0w5NyA1MEw2MyAxMloiIGZpbGw9ImJsYWNrIiBmaWxsLW9wYWNpdHk9IjAuMzIiLz4KPC9nPgo8cGF0aCBkPSJNLTUgODZMNjMgMTBMOTcgNDhMNjMgODZILTVaIiBmaWxsPSJ1cmwoI3BhaW50MV9saW5lYXIpIi8%2BCjxwYXRoIGQ9Ik0tNSA4Nkw2MyAxMEw4MCAyOUwyOSA4NkgtNVoiIGZpbGw9InVybCgjcGFpbnQyX2xpbmVhcikiLz4KPC9nPgo8L2c%2BCjwvZz4KPC9zdmc%2B&labelColor=white)
 
-
-
 ---
 
-## <img src="./assets/learning.png" width="26" align="absmiddle" alt="Study"> Currently Learning & Practicing
+## <img src="./assets/learning-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="Study"><img src="./assets/learning-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="Study"> Currently Learning & Practicing
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white)
@@ -51,7 +49,8 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 * REST APIs
 * Git & GitHub
 
-## <img src="./assets/it-skills.png" width="26" align="absmiddle" alt="it-skills">  IT Experience
+## <img src="./assets/it-skills-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="it-skills"><img src="./assets/it-skills-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="it-skills"> IT Experience
+
 
 * Network Infrastructure
     * Network administration & Monitoring
@@ -60,11 +59,10 @@ My goal: to combine my experience in IT systems with my newly acquired developme
     * Virtualization (Vmware, citrix)
     * Microsoft Environments (Windows Server, SQL Server)
 
-
-
 ---
 
-## <img src="./assets/target.png" width="26" align="absmiddle" alt="Objectives"> Objectives
+## <img src="./assets/target-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="Objectives"><img src="./assets/target-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="Objectives"> Objectives
+
 
 * Further develop my web development skills
 * Build complete applications, from front-end to back-end.
@@ -74,17 +72,17 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-##  <img src="./assets/project.png" width="26" align="absmiddle" alt="Projects"> Projects
+## <img src="./assets/project-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="Projects"><img src="./assets/project-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="Projects"> Projects
 
 Here you will find my various projects and experiments, developed as part of my training or as personal projects.
 
-- [Oclock Student News](https://cavox.github.io/Oclock-Student-news/)
+- [Oclock Student News](https://cavox.github.io/Oclock-Student-news/) / [Oclock Student News v2](https://cavox.github.io/Oclock-Student-news-v2/)
 
 Each project is an opportunity to put my knowledge into practice, improve my skills and explore new technologies.
 
 ---
 
-## <img src="./assets/analysis.png" width="26" align="absmiddle" alt="Statistics"> GitHub Statistics
+## <img src="./assets/statistics-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="statistics"><img src="./assets/statistics-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="statistics"> GitHub Statistics
 
 <div align="center">
 
@@ -96,7 +94,7 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 
 ---
 
-##  <img src="./assets/contact.png" width="26" align="absmiddle" alt="Contact"> Contact
+## <img src="./assets/contact-light.png#gh-light-mode-only" width="26px" align="absmiddle" alt="contact"><img src="./assets/contact-dark.png#gh-dark-mode-only" width="26px" align="absmiddle" alt="contact"> Contact
 
 * LinkedIn : [My profile](https://www.linkedin.com/in/joseph-adam-66b650129/)
 * GitHub : [My Repositories](https://github.com/cavox)
