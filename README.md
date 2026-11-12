@@ -12,7 +12,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## <img src="./assets/skill.png" width="26" align="absmiddle" alt="Logo"> Technical Skills
+## <img src="./assets/skill.png" width="26" align="absmiddle" alt="Skills"> Technical Skills
 
 ### Development
 
@@ -40,7 +40,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## <img src="./assets/learning.png" width="26" align="absmiddle" alt="Logo"> Currently Learning & Practicing
+## <img src="./assets/learning.png" width="26" align="absmiddle" alt="Study"> Currently Learning & Practicing
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white)
@@ -51,7 +51,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 * REST APIs
 * Git & GitHub
 
-## IT Experience
+## <img src="./assets/it-skills.png" width="26" align="absmiddle" alt="it-skills">  IT Experience
 
 * Network Infrastructure
     * Network administration & Monitoring
@@ -64,7 +64,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## <img src="./assets/target.png" width="26" align="absmiddle" alt="Logo"> Goals
+## <img src="./assets/target.png" width="26" align="absmiddle" alt="Objectives"> Objectives
 
 * Further develop my web development skills
 * Build complete applications, from front-end to back-end.
@@ -74,7 +74,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-##  <img src="./assets/project.png" width="26" align="absmiddle" alt="Logo"> Projects
+##  <img src="./assets/project.png" width="26" align="absmiddle" alt="Projects"> Projects
 
 Here you will find my various projects and experiments, developed as part of my training or as personal projects.
 
