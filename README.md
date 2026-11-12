@@ -1,6 +1,6 @@
 [🇫🇷 Français](https://github.com/cavox/cavox/blob/main/README-fr.md) | [🇬🇧 English](https://github.com/cavox/cavox/blob/main/README.md)
 
-# <img src="./assets/logo_it.png" width="48" align="absmiddle" alt="Logo"> Joseph ADAM
+# <img src="./assets/logo_it.png" width="70" align="absmiddle" alt="Logo"> Joseph ADAM
 
 ### Application Developer in Training | Application Developer (CDA)
 
@@ -12,7 +12,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## Technical Skills
+## <img src="./assets/skill.png" width="26" align="absmiddle" alt="Logo"> Technical Skills
 
 ### Development
 
@@ -40,7 +40,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## Currently Learning & Practicing
+## <img src="./assets/learning.png" width="26" align="absmiddle" alt="Logo"> Currently Learning & Practicing
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=white)
@@ -64,7 +64,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## Goals
+## <img src="./assets/target.png" width="26" align="absmiddle" alt="Logo"> Goals
 
 * Further develop my web development skills
 * Build complete applications, from front-end to back-end.
@@ -74,7 +74,7 @@ My goal: to combine my experience in IT systems with my newly acquired developme
 
 ---
 
-## Projects
+##  <img src="./assets/project.png" width="26" align="absmiddle" alt="Logo"> Projects
 
 Here you will find my various projects and experiments, developed as part of my training or as personal projects.
 
@@ -84,7 +84,8 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 
 ---
 
-## GitHub Statistics
+## <img src="./assets/analysis.png" width="26" align="absmiddle" alt="Statistics"> GitHub Statistics
+
 <div align="center">
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=cavox&theme=nord&show_ring=false&border_radius=5.5&size=compact&hide=stars%2Cprs&order=repos%2Ccommits%2Cissues%2Chours%2Cgrade%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Ccontributions%2Cfollowers)
@@ -95,7 +96,7 @@ Each project is an opportunity to put my knowledge into practice, improve my ski
 
 ---
 
-## Contact
+##  <img src="./assets/contact.png" width="26" align="absmiddle" alt="Contact"> Contact
 
 * LinkedIn : [My profile](https://www.linkedin.com/in/joseph-adam-66b650129/)
 * GitHub : [My Repositories](https://github.com/cavox)
